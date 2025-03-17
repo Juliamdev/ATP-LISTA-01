@@ -1,0 +1,15 @@
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.AssemblyInfoInputs.cache
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.AssemblyInfo.cs
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.csproj.CoreCompileInputs.cache
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.sourcelink.json
+/workspaces/ATP-LISTA-01/bin/Debug/net8.0/ATP-LISTA-01
+/workspaces/ATP-LISTA-01/bin/Debug/net8.0/ATP-LISTA-01.deps.json
+/workspaces/ATP-LISTA-01/bin/Debug/net8.0/ATP-LISTA-01.runtimeconfig.json
+/workspaces/ATP-LISTA-01/bin/Debug/net8.0/ATP-LISTA-01.dll
+/workspaces/ATP-LISTA-01/bin/Debug/net8.0/ATP-LISTA-01.pdb
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.dll
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/refint/ATP-LISTA-01.dll
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.pdb
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ATP-LISTA-01.genruntimeconfig.cache
+/workspaces/ATP-LISTA-01/obj/Debug/net8.0/ref/ATP-LISTA-01.dll
